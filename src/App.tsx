@@ -14,8 +14,8 @@ export default function App() {
         width="150px"
       />
       </div>
-      <h2>Maria Silva</h2>
-      <p>Desenvolvedora Front-end apaixonada por React e CSS.</p>
+      <h1>Maria Silva</h1>
+      <p> <br />Desenvolvedora Front-end apaixonada <br /> por React e CSS.</p>
       <button className="btn">Seguir</button>
     </div>
     </div>
